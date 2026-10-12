@@ -1,0 +1,19 @@
+# Restricted research data
+dataset/*.csv
+dataset/*.tsv
+dataset/*.xlsx
+dataset/*.rds
+dataset/*.RData
+
+# Local R environment
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+.Rprofile
+
+# Temporary files
+.DS_Store
+*.log
+~$*
