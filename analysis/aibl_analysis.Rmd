@@ -1,5 +1,5 @@
 ---
-title: "COM736 Coursework 2 – AIBL Data Validation and Visualisation"
+title: "AIBL Data Validation and Visualisation"
 author: "Emmanuel Bajimi"
 date: "`r Sys.Date()`"
 output:
